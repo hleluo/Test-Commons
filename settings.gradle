@@ -1,1 +1,1 @@
-include ':app', ':commons-util', ':commons-bluetooth'
+include ':app', ':commons-util', ':commons-bluetooth', ':commons-wifi', ':commons-zxing'
